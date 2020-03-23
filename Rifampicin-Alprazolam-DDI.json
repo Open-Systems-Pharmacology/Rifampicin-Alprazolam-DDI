@@ -1436,7 +1436,7 @@
   ],
   "Formulations": [
     {
-      "Name": "Weibull_Xanax",
+      "Name": "Xanax_IR",
       "FormulationType": "Formulation_Tablet_Weibull",
       "Parameters": [
         {
@@ -1792,7 +1792,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Alprazolam 1 mg at 0 h|Weibull_Xanax|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|Alprazolam 1 mg at 0 h|Xanax_IR|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -2007,7 +2007,7 @@
             "Name": "Alprazolam 1 mg at 0 h",
             "Formulations": [
               {
-                "Name": "Weibull_Xanax",
+                "Name": "Xanax_IR",
                 "Key": "Formulation"
               }
             ]
@@ -2173,7 +2173,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Alprazolam 1 mg at 96 h|Weibull_Xanax|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|Alprazolam 1 mg at 96 h|Xanax_IR|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -2409,7 +2409,7 @@
             "Name": "Alprazolam 1 mg at 96 h",
             "Formulations": [
               {
-                "Name": "Weibull_Xanax",
+                "Name": "Xanax_IR",
                 "Key": "Formulation"
               }
             ]
@@ -2478,7 +2478,7 @@
               "GridLines": false,
               "Visible": true,
               "Min": 95.80312,
-              "Max": 120.286514,
+              "Max": 120.2865,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -2490,7 +2490,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 9.09744049E-05,
+              "Min": 9.09744E-05,
               "Max": 0.04109398,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
@@ -2618,7 +2618,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Alprazolam 1 mg at 0 h|Weibull_Xanax|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|Alprazolam 1 mg at 0 h|Xanax_IR|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -2833,7 +2833,7 @@
             "Name": "Alprazolam 1 mg at 0 h",
             "Formulations": [
               {
-                "Name": "Weibull_Xanax",
+                "Name": "Xanax_IR",
                 "Key": "Formulation"
               }
             ]
@@ -3081,12 +3081,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Alprazolam 1 mg at 100 h and 436 h|Weibull_Xanax|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|Alprazolam 1 mg at 100 h and 436 h|Xanax_IR|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Alprazolam 1 mg at 100 h and 436 h|Weibull_Xanax|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|Alprazolam 1 mg at 100 h and 436 h|Xanax_IR|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -3327,7 +3327,7 @@
             "Name": "Alprazolam 1 mg at 100 h and 436 h",
             "Formulations": [
               {
-                "Name": "Weibull_Xanax",
+                "Name": "Xanax_IR",
                 "Key": "Formulation"
               }
             ]
